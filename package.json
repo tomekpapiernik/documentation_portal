@@ -9,7 +9,8 @@
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
     "serve": "docusaurus serve",
-    "clear": "docusaurus clear"
+    "clear": "docusaurus clear",
+    "test": "mdspell --en-us -a -r docs/*.md"
   },
   "dependencies": {
     "@docusaurus/core": "2.0.0-alpha.69",

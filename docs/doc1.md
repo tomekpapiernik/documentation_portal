@@ -5,4 +5,4 @@ sidebar_label: Style Guide
 slug: /
 ---
 
-MARTA JEST TAKA SUPER ZE TO NORMALNIE JEST KURNA SZOK ELo
+This is a little something I have written. There should be no spelling mistakes here.
