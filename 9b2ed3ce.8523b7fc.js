@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[14],{82:function(o){o.exports=JSON.parse('{"allTagsPath":"/documentation_portal/blog/tags","slug":"docusaurus","name":"docusaurus","count":3,"permalink":"/documentation_portal/blog/tags/docusaurus"}')}}]);
