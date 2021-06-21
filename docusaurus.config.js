@@ -1,13 +1,13 @@
 module.exports = {
   title: 'I just deployed this site to firebase with Buddy!',
   tagline: 'How cool is that?!',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://tomekpapiernik.github.io',
+  baseUrl: '/documentation_portal/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'tomekpapiernik', // Usually your GitHub org/user name.
+  projectName: 'documentation_portal', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'My Site',

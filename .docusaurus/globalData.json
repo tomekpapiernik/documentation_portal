@@ -1,0 +1,38 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/documentation_portal/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/documentation_portal/docs",
+          "mainDocId": "doc1",
+          "docs": [
+            {
+              "id": "doc1",
+              "path": "/documentation_portal/docs/",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "doc2",
+              "path": "/documentation_portal/docs/doc2",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "doc3",
+              "path": "/documentation_portal/docs/doc3",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "mdx",
+              "path": "/documentation_portal/docs/mdx",
+              "sidebar": "someSidebar"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
